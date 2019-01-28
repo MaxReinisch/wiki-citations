@@ -1,0 +1,56 @@
+.cover_img_read{
+  align-self: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  display:block;
+  height:168px;
+  margin:10px auto;
+  width: 120px;
+}
+.text_elements_read{
+  max-width: 100%;
+  margin: auto;
+  padding: 5px;
+ }
+.popup_box: {
+  text-align: center;
+}
+.bottom_details_read {
+  background-color: #eee;
+  max-width: 100%;
+  padding: 5px;
+  margin: auto;
+}
+.text_elements_donate {
+  color:black;
+  max-width: 100%;
+  margin: auto;
+  padding: 5px;
+}
+.bottom_details_donate{
+  background-color: #eee;
+  color: black;
+  max-width: 100%;
+  padding: 5px;
+  margin: auto;
+}
+.btn-archive-book{
+  background-color: lightblue;
+  border-radius: 3px;
+  box-shadow:2px 2px 1px darkgrey;
+  color: white;
+  margin: 0 4px 1px;
+  padding:0 2px 0;
+
+}
+.btn-archive-donate{
+  background-color:lightgreen;
+  border-radius: 3px;
+  box-shadow: 2px 2px 1px darkgrey;
+  color: white;
+  margin: 0 4px 1px;
+  padding: 0 2px 0;
+}
+.popup-archive{
+  position: absolute
+}
